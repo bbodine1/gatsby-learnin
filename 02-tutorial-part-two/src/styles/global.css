@@ -1,0 +1,8 @@
+:root {
+  --brown: brown;
+  --green: green;
+  --lavenderblush: lavenderblush;
+}
+html {
+  background-color: var(--lavenderblush);
+}
